@@ -1,0 +1,12 @@
+C:\Users\Aykut\source\repos\MethodsDemo\MethodsDemo\bin\Debug\netcoreapp3.1\MethodsDemo.exe
+C:\Users\Aykut\source\repos\MethodsDemo\MethodsDemo\bin\Debug\netcoreapp3.1\MethodsDemo.deps.json
+C:\Users\Aykut\source\repos\MethodsDemo\MethodsDemo\bin\Debug\netcoreapp3.1\MethodsDemo.runtimeconfig.json
+C:\Users\Aykut\source\repos\MethodsDemo\MethodsDemo\bin\Debug\netcoreapp3.1\MethodsDemo.runtimeconfig.dev.json
+C:\Users\Aykut\source\repos\MethodsDemo\MethodsDemo\bin\Debug\netcoreapp3.1\MethodsDemo.dll
+C:\Users\Aykut\source\repos\MethodsDemo\MethodsDemo\bin\Debug\netcoreapp3.1\MethodsDemo.pdb
+C:\Users\Aykut\source\repos\MethodsDemo\MethodsDemo\obj\Debug\netcoreapp3.1\MethodsDemo.AssemblyInfoInputs.cache
+C:\Users\Aykut\source\repos\MethodsDemo\MethodsDemo\obj\Debug\netcoreapp3.1\MethodsDemo.AssemblyInfo.cs
+C:\Users\Aykut\source\repos\MethodsDemo\MethodsDemo\obj\Debug\netcoreapp3.1\MethodsDemo.csproj.CoreCompileInputs.cache
+C:\Users\Aykut\source\repos\MethodsDemo\MethodsDemo\obj\Debug\netcoreapp3.1\MethodsDemo.dll
+C:\Users\Aykut\source\repos\MethodsDemo\MethodsDemo\obj\Debug\netcoreapp3.1\MethodsDemo.pdb
+C:\Users\Aykut\source\repos\MethodsDemo\MethodsDemo\obj\Debug\netcoreapp3.1\MethodsDemo.genruntimeconfig.cache
